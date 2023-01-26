@@ -1,7 +1,6 @@
-/* eslint-disable prettier/prettier */
 import { useMatomo } from '@m4tt72/matomo-tracker-react';
 import React, { useEffect, useState } from 'react';
-/* import { commandExists } from '../../utils/commandExists'; */
+import { commandExists } from '../../utils/commandExists';
 import { useShell } from '../../utils/shellProvider';
 import { handleTabCompletion } from '../../utils/tabCompletion';
 import { useTheme } from '../../utils/themeProvider';
@@ -114,7 +113,7 @@ export const Input = ({ inputRef, containerRef }) => {
         aria-label="prompt"
         style={{
           backgroundColor: theme.background,
-          color: commandExists(value) || value === '' ? theme.green : theme.white,
+          color: commandExists(value) || value === '' ? theme.green : theme.red,
         }}
         value={value}
         onChange={(event) => setValue(event.target.value)}

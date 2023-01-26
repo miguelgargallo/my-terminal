@@ -1,4 +1,3 @@
-/*
 import * as bin from './bin';
 
 export const commandExists = (command: string) => {
@@ -6,4 +5,3 @@ export const commandExists = (command: string) => {
 
   return commands.indexOf(command.split(' ')[0]) !== -1;
 };
-*/
