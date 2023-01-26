@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { useMatomo } from '@m4tt72/matomo-tracker-react';
 import React, { useEffect, useState } from 'react';
 /* import { commandExists } from '../../utils/commandExists'; */
