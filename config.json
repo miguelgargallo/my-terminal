@@ -1,10 +1,12 @@
 {
   "bioUrl": "https://raw.githubusercontent.com/miguelgargallo/miguelgargallo/master/README.md",
   "social": {
-    "instagram": "miguelgargallo",
+    "instagram": "miguelgargallo.es",
     "github": "miguelgargallo",
     "linkedin": "miguelgargallo",
-    "twitter": "miguelgargallo"
+    "twitter": "miguelgargallo",
+    "youtube": "miguelgargallo",
+    "blog": "miguelgargallo.es"
   },
   "theme": "pylar",
   "border": true

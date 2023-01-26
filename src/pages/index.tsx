@@ -31,13 +31,13 @@ const IndexPage: React.FC<IndexPageProps> = ({ inputRef }) => {
   return (
     <>
       <Head>
-        <title>M4TT72 | Home</title>
+        <title>Miguel Gargallo | Terminal</title>
       </Head>
 
       <div
         className="overflow-hidden h-full rounded"
         style={{
-          borderColor: theme.yellow,
+          borderColor: theme.green,
           padding: config.border ? 16 : 8,
           borderWidth: config.border ? 2 : 0,
         }}

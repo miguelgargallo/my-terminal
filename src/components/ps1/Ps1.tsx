@@ -18,28 +18,28 @@ export const Ps1 = () => {
           color: theme.yellow,
         }}
       >
-        guest
+        miguelgargallo
+      </span>
+      <span
+        style={{
+          color: theme.yellow,
+        }}
+      >
+        {' en'}
+      </span>
+      <span
+        style={{
+          color: theme.blue,
+        }}
+      >
+        {' @twitter'}
       </span>
       <span
         style={{
           color: theme.white,
         }}
       >
-        @
-      </span>
-      <span
-        style={{
-          color: theme.green,
-        }}
-      >
-        {hostname}
-      </span>
-      <span
-        style={{
-          color: theme.white,
-        }}
-      >
-        :$ ~
+        {` >`}
       </span>
     </div>
   );
