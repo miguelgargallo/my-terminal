@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import * as bin from './bin';
 
 export const handleTabCompletion = (
