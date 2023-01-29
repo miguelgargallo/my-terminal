@@ -1,4 +1,4 @@
-# [M4TT72 | Terminal](https://term.m4tt72.com)
+# [miguelgargallo | Terminal](https://superdata.dev)
 
 A terminal style website
 
