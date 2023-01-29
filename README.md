@@ -2,7 +2,7 @@
 
 A terminal style website
 
-![image](https://user-images.githubusercontent.com/5947268/215339233-bb4efaa7-ad8b-4a9d-af37-b56228abc890.png)
+![image](/docs/screenshot.png)
 
 ## why?
 
@@ -54,13 +54,13 @@ Here's a sample of the `config.json` file:
 
 ```json
 {
-  "bioUrl": "https://raw.githubusercontent.com/m4tt72/m4tt72/master/README.md",
+  "bioUrl": "https://raw.githubusercontent.com/miguelgargallo/miguelgargallo/master/README.md",
   "social": {
-    "instagram": "m4tt72",
-    "github": "m4tt72",
-    "linkedin": "yassinefathi"
+    "instagram": "miguelgargallo.es",
+    "github": "miguelgargallo",
+    "linkedin": "miguelgargallo"
   },
-  "theme": "gruvboxdark" // list of themes available in themes.json
+  "theme": "hyper" // list of themes available in themes.json
 }
 ```
 
