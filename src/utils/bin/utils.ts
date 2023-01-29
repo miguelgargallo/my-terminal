@@ -81,10 +81,10 @@ Type 'help' to see list of available commands.
 🎉 New: New command 'neofetch', for you linux.
 🎉 Use blog to redirect to my blog., miguelgargallo.es
 
-🎨 theme set hyper
-🎨 theme set pylar
-🎨 theme set miguelgargallo
-🎨 theme set miguelgargallopaster
+🎨 theme set Hyper
+🎨 theme set Pylar
+🎨 theme set StabiloBoss
+🎨 theme set StabiloBossPastel
 
 🌎 github
 🌎 twitter
