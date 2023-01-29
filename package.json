@@ -1,6 +1,6 @@
 {
   "name": "terminal",
-  "version": "2.14.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": {
     "name": "Yassine Fathi",
@@ -8,12 +8,12 @@
     "email": "hi@m4tt72.com"
   },
   "funding": {
-    "type": "Paypal",
-    "url": "https://paypal.me/y4ss1n3"
+    "type": "Ko-fi",
+    "url": "https://ko-fi.com/miguelgargallo"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/m4tt72/terminal"
+    "url": "https://github.com/miguelgargallo/terminal"
   },
   "scripts": {
     "start": "next start",
