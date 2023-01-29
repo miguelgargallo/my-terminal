@@ -2,7 +2,7 @@
 
 A terminal style website
 
-![screenshot](/docs/screenshot.png)
+![image](https://user-images.githubusercontent.com/5947268/215339233-bb4efaa7-ad8b-4a9d-af37-b56228abc890.png)
 
 ## why?
 
